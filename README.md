@@ -8,3 +8,5 @@ creating a new branch is quick AND simple;
 >>>>>>> feature
 
 creating a new branch is quick and simple;
+
+that is all;
